@@ -1,23 +1,20 @@
-# nodejs_crud_api
-This is a sample of api using NodeJS for CRUD with MySQL using SwiftUI.
-https://youtu.be/vw9xY18gpuE
 
-1. You have to create mysql database's name "nodejs_api" using phpMyadmin.
-```
-CREATE TABLE posts (
+CREATE TABLE teste (
     id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    title VARCHAR(100) NOT NULL,
-    post VARCHAR(100) NOT NULL,
+    titulo VARCHAR(100) NOT NULL,
+    descricao VARCHAR(100) NOT NULL,
     create_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     update_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 ) ENGINE=INNODB DEFAULT CHARSET=utf8;
 ```
 
-2. You can run a server using nodemon command below.
-```
 npm run dev
-```
 
-If you want to change it. 
-please access package.json file > "scripts" > "dev"
-# NODEJS-REST
+//API REST NODEJS SWIFT IOS // SWIFT UI
+//API REST NODEJS SWIFT IOS // SWIFT UI
+//API REST NODEJS SWIFT IOS // SWIFT UI
+//API REST NODEJS SWIFT IOS // SWIFT UI
+//API REST NODEJS SWIFT IOS // SWIFT UI
+//API REST NODEJS SWIFT IOS // SWIFT UI
+//Jesus lhe respondeu: "Se você conhecesse o dom de Deus e quem está pedindo água, você lhe teria pedido e dele receberia água viva". 
+
